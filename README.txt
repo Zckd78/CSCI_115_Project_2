@@ -26,7 +26,7 @@ README -=- README -=- README -=- README -=- README -=- README -=- README
 	NEED HELP? QUESTIONS?
 
 	If you have any questions, please contact me at:
-		zckd78@gmail.com
+		zachary.chunscott@gmail.com
 ======================================================
 
 README -=- README -=- README -=- README -=- README -=- README -=- README
